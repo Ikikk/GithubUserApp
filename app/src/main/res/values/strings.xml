@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+    <string name="user_avatar">userAvatar</string>
+    <string name="search_hint">Masukkan username github…</string>
+
+    <string name="follower_tab">follower</string>
+    <string name="following_tab">following</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="username">username</string>
+    <string name="followers">%1$d Followers</string>
+    <string name="following">%1$d Following</string>
+
+    <string name="github_logo">githubLogo</string>
+    <string name="name">name</string>
+    <string name="bio">bio</string>
+    <string name="favoriteuser">FavoriteUser</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="menu_2">Switch Theme</string>
+    <string name="menu_1">Favorites</string>
+    <string name="share">Share</string>
+
+</resources>
